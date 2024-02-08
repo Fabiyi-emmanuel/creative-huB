@@ -1,0 +1,79 @@
+body{
+ background-image: url(./Untitled\ design\ \(2\).png);
+   background-repeat: no-repeat;
+   background-size: cover;
+   background-position: center;
+}
+.logo{
+    width: 150px;
+ 
+ 
+}
+.con{
+   background-color: white;
+   border-radius: 10px;
+}
+.con p{
+   color: black;
+   opacity: 1;
+}
+ 
+.n1{
+    font-size: x-large;
+    list-style-type: none;
+    font-weight: bolder;
+    color: rgb(0, 0, 0);
+}
+.con1{
+    color: black;
+    opacity: 0.8;
+}
+.ceo{
+    font-weight: bolder;
+    font-size: xx-large;
+    font-family: fantasy;
+}
+ .member{
+    width: 70%;
+ display: flex;
+ margin: 0 auto;
+ border-radius: 30px;
+ box-shadow: 10px 10px 10px black;
+ background-color: black;
+ }
+ .team{
+    color: white;
+    opacity: 1;
+ }
+ .back{
+    background-color: aliceblue;
+    width: 30px;
+    height:  30px;
+    border-radius: 50%;
+    display: flex;
+    margin: 0  auto;
+ 
+ }
+ .med{
+color: rgb(44, 222, 0);
+text-decoration: underline;
+ }
+ .bm{
+    border: 1px solid black;
+ }
+ textarea{
+    resize: none;
+ }
+ .blog1{
+   background-color: white;
+ }
+ .content12{
+   background-color: white;
+   border-radius: 20px;
+   border: 1px solid black;
+ }
+ .p{
+   color: black;
+   font-weight: bolder;
+   font-size: 12px;
+ }
